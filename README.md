@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ezequiel Vieira dos Anjos
+### Desenvolvedor Multiplataforma | Multiplatform Developer
 
-<!--
-**ozikcode/ozikcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Ezequiel, um desenvolvedor de software proativo e focado em resultados, com experiência prática na criação de sistemas web e aplicativos multiplataforma. Atualmente, aplico minhas habilidades no desenvolvimento de soluções para o setor público, com foco em otimizar processos e melhorar a eficiência.
 
-Here are some ideas to get you started:
+Apaixonado por arquiteturas modernas e escaláveis, utilizo tecnologias como **Flutter**, **Firebase** e **Cloudflare** para construir produtos seguros e de alto desempenho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Minhas Habilidades
+
+Algumas das tecnologias e ferramentas com as quais eu trabalho:
+
+* **Linguagens de Programação:** JavaScript, Dart, PHP
+* **Frameworks e Bibliotecas:** Flutter, React, Node.js
+* **Serviços Cloud e Ferramentas:** Firebase, Cloudflare, Google Cloud, Git
+* **API:** API REST
+* **Versionamento** Git, Github
+* **Arquiteturas modernas:** SOLID, Microservice
+* **Metodologia:** Scrum, Kanban
+
+---
+
+### 🚀 Projetos de Destaque
+
+* **Stock:** Aplicativo multiplataforma em Flutter para gestão de estoque de medicamentos.
+* **Portal do Inquilino:** Aplicação multiplataforma para gestão simplificada de contratos de aluguel de imóveis, focada na comunicação entre locadores e inquilinos.
+* **Ekklesia - Gerenciador de Igrejas:** Sistema multiplataforma de gerenciamento com funcionalidades de controle de membros e gestão financeira.
+
+---
+
+### 📫 Conecte-se Comigo
+
+* **LinkedIn:** (https://www.linkedin.com/in/ezequielvieirabes/)
+* **Site:** (https://zikcode.com.br)
