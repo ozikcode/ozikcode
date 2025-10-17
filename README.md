@@ -1,4 +1,4 @@
-# Ezequiel Vieira dos Anjos
+# Ezequiel V. dos Anjos
 ### Desenvolvedor Multiplataforma | Multiplatform Developer
 
 Olá! Sou Ezequiel, um desenvolvedor de software proativo e focado em resultados, com experiência prática na criação de sistemas web e aplicativos multiplataforma. Atualmente, aplico minhas habilidades no desenvolvimento de soluções para o setor público, com foco em otimizar processos e melhorar a eficiência.
