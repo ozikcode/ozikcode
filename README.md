@@ -1,9 +1,9 @@
 # Ezequiel V. dos Anjos
 ### Desenvolvedor Multiplataforma | Multiplatform Developer
 
-Olá! Sou Ezequiel, um desenvolvedor de software proativo e focado em resultados, com experiência prática na criação de sistemas web e aplicativos multiplataforma. Atualmente, aplico minhas habilidades no desenvolvimento de soluções para o setor público, com foco em otimizar processos e melhorar a eficiência.
+Olá! Sou Ezequiel, um desenvolvedor júnior proativo e focado em resultados, com experiência prática na criação de sistemas web e aplicativos multiplataforma. Atualmente, aplico minhas habilidades no desenvolvimento de soluções para o setor público, com foco em otimizar processos e melhorar a eficiência.
 
-Apaixonado por arquiteturas modernas e escaláveis, utilizo tecnologias como **Flutter**, **Firebase** e **Cloudflare** para construir produtos seguros e de alto desempenho.
+Apaixonado por arquiteturas modernas e escaláveis, utilizo tecnologias como **Flutter**, **Firebase**, **Cloudflare** e GCP para construir produtos seguros e de alto desempenho.
 
 ---
 
